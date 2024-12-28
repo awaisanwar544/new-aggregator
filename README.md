@@ -13,6 +13,12 @@ A modern news aggregator built with React that pulls articles from various trust
 - State management with Zustand
 - Docker support
 
+## Screenshots
+<img width="1436" alt="Screenshot 2024-12-28 at 10 20 00 PM" src="https://github.com/user-attachments/assets/3931c2ac-cecd-4246-a14e-e5df120aa7bf" />
+
+<img width="583" alt="Screenshot 2024-12-28 at 10 20 19 PM" src="https://github.com/user-attachments/assets/fdbea744-08a0-4f9c-bc9b-7a672b601b0d" />
+
+
 ## Getting Started
 
 ### Prerequisites
